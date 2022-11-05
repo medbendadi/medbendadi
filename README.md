@@ -4,7 +4,7 @@
 
 ## MERN Stack Developer !!
 
-- 🌱 JS = LIFE 
+- 🌱 JS === LIFE 
 - 👯 I’m looking to collaborate with other expert Developers
 - 🥅 2023 Goals: Learn More About WEB 3.0 
 - ⚡ Fun fact: I love playing Video Games  
