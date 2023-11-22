@@ -1,5 +1,4 @@
-# 💫 About Me:
-🌱 JS === LIFE<br>👯 I’m looking to collaborate with other expert Developers<br>🥅 2023 Goals: Learn More About WEB 3.0<br>⚡ Fun fact: I love playing Video Games
+![]([http://i.imgur.com/OUkLi.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ5ZGg2ZGV5OHB0d3VraWxsZWU5ZnV6a3ZtcjU0aG4ybXJsN3g3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif))
 
 
 ## 🌐 Socials:
