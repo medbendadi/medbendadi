@@ -1,5 +1,6 @@
-![](https://i.giphy.com/RbDKaczqWovIugyJmW.gif | width=100)
+![]( | width=100)
 
+<img src="[https://i.giphy.com/RbDKaczqWovIugyJmW.gif]" data-canonical-src="https://i.giphy.com/RbDKaczqWovIugyJmW.gif" width="200" height="400" />
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-bendadi) 
 
