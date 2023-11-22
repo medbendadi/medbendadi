@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ5ZGg2ZGV5OHB0d3VraWxsZWU5ZnV6a3ZtcjU0aG4ybXJsN3g3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
+![](https://i.giphy.com/RbDKaczqWovIugyJmW.gif | width=100)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-bendadi) 
