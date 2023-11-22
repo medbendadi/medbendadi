@@ -1,5 +1,6 @@
 
 <img src="https://github.com/medbendadi/medbendadi/blob/main/svg.svg" alt="Hey I'm medbendadi"/>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-bendadi) 
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:houshuai0816@gmail.com)](mailto:itsbendadi@gmail.com)
@@ -10,13 +11,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=medbendadi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=medbendadi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=medbendadi&theme=dark&hide_border=false)<br/>
 
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medbendadi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="200" width="100%" alt="Top Languages" />  
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=medbendadi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ### ✍️ Random Dev Quote
