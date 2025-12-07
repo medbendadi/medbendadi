@@ -67,8 +67,7 @@
 
 <!-- GitHub Contribution Graph -->
 # 📊 GitHub Contribution:
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=medbendadi&theme=tokyo-night&hide_border=true)
-
+![GitHub contribution grid snake](https://raw.githubusercontent.com/medbendadi/medbendadi/output/github-contribution-grid-snake.svg)
 
 # 📊 GitHub Stats:
 
