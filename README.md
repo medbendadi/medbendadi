@@ -65,6 +65,9 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
+<!-- GitHub Contribution Graph -->
+# 📊 GitHub Contribution:
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=medbendadi&theme=tokyo-night&hide_border=true)
 
 
 # 📊 GitHub Stats:
