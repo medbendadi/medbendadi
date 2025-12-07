@@ -68,7 +68,6 @@
 <!-- GitHub Contribution Graph -->
 # 📊 GitHub Contribution:
 ![GitHub contribution grid snake](https://raw.githubusercontent.com/medbendadi/medbendadi/output/github-contribution-grid-snake.svg)
-
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=medbendadi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
